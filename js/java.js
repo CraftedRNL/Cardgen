@@ -5,5 +5,5 @@ select.addEventListener('change', function(){
     document.getElementById("greeting").innerText = 'Greetings from';
     document.getElementById("state-heading").innerText = name;
     
-}, false);
+});
 
